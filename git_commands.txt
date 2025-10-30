@@ -3,3 +3,5 @@ git merge branch name
 git commit -m Commit message 
 git push origin branch name 
 git pull origin branch name
+
+updateee
